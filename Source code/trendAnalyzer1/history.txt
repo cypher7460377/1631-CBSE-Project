@@ -1,0 +1,10 @@
+2012
+Game,20
+Multi,35
+Prod,15
+Social,30
+2013
+Game,25
+Multi,40
+Prod,10
+Social,25
